@@ -1,6 +1,7 @@
 # nf.chatbot
 
-`npm shrinkwrap`
+* `npm shrinkwrap`
+* Yarn : https://medium.com/work-market-engineering/adventures-with-npm-shrinkwrap-facebook-yarn-fc157b713ac4#.5gnek0oqd
 
 # Chat ops
 `개발도구를 일상(업무적인) 대화속으로 끌어들임으로써, 팀의 일을 서로 협력하고, 자동으로, 싸고 빠르게 할 수 있게 만들어 준다.`
